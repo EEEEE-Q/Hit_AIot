@@ -34,7 +34,7 @@ https://huggingface.co/learn/agents-course/zh-CN/unit0/introduction
 • AirSim 仿真环境  
 ***安装教程***  
 1. AirSim资源下载  
-https://pan.baidu.com/s/1mvBZOpPGSSYG5Iqv7sQduA?pwd=3pkn 提取码：3pkn   
+链接: https://pan.baidu.com/s/1wM4cEgXSBX2noIqx5NXPQA 提取码: 1r7i   
 AirSim官方文档：https://microsoft.github.io/AirSim/ 
 感兴趣可以研究，在本demo中只需简单调用接口即可
 2. 启动！  
@@ -87,7 +87,10 @@ python takeoff_demo.py
 我们在simple_agent_demo/airsim_smol_wrapper.py中还预定义好了很多工具，大家可以自行去探索，可以直接询问ai各个工具的含义以及整个代码的框架，具体的教程我们会逐步推出！
 
 
+ git add .
 
+git commit -m "commit"
+git push -u origin main
 
 
 
