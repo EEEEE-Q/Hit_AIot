@@ -39,9 +39,9 @@ AirSim官方文档：https://microsoft.github.io/AirSim/
 感兴趣可以研究，在本demo中只需简单调用接口即可
 2. 启动！  
 在windows上解压后双击run脚本即可
-![alt text](image.png)
+![alt text](img/image.png)
 AirSim无人机仿真界面
-![alt text](e9f4cdf3-64fb-4f45-8cb7-bb5acbbbb562.png)
+![alt text](img/e9f4cdf3-64fb-4f45-8cb7-bb5acbbbb562.png)
 
 • 代码环境：Anaconda＋pycharm   
 ***安装教程*** https://deepcode.blog.csdn.net/article/details/136639378   
