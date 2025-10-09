@@ -76,7 +76,9 @@ pip install airsim numpy opencv-python openai pillow smolagents
 ``
 python takeoff_demo.py
 ``   
-便可以调用预定义好的无人机多模态大模型智能体控制无人机起飞啦！  
+便可以调用预定义好的无人机多模态大模型智能体控制无人机起飞啦！
+
+<video controls src="img/20251009_125926.mp4" title="Title"></video>
 • demo2：*qlw_test*
 本案例是通过我们逐步给无人机Agent指令，使得无人机找到门口并且飞入屋内，检测屋内的物品并在bash中返回，大家也可以执行起来玩一玩  
 ``
