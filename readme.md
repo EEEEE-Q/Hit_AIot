@@ -89,10 +89,7 @@ python takeoff_demo.py
 我们在simple_agent_demo/airsim_smol_wrapper.py中还预定义好了很多工具，大家可以自行去探索，可以直接询问ai各个工具的含义以及整个代码的框架，具体的教程我们会逐步推出！
 
 
- git add .
 
-git commit -m "commit"
-git push -u origin main
 
 
 
